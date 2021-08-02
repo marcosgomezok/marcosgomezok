@@ -1,5 +1,5 @@
 # Contact info: 
-email: contactinfomg@gmail.com
+email: contact@marcosgomez.com.ar
 # My Linkedin:
 Connect with me: https://www.linkedin.com/in/marcosgomezok/
 # Skills:
