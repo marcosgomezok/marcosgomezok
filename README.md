@@ -1,7 +1,5 @@
 # marcosgomez
-<img width="200" border-radius="50%" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824480-2cfa6c20-1d89-465b-9baf-5c73da9e3c8b.png">
-<img width="200" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824554-388f8537-f0a3-44b2-9d2c-00f31f059262.png">
-<img width="200" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824568-3d432b84-6420-49be-b7ff-0ea4f4556917.png">
+<img width="200" border-radius="50%" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824480-2cfa6c20-1d89-465b-9baf-5c73da9e3c8b.png"><img width="200" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824554-388f8537-f0a3-44b2-9d2c-00f31f059262.png"><img width="200" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824568-3d432b84-6420-49be-b7ff-0ea4f4556917.png">
 
 ![reactjs](https://user-images.githubusercontent.com/33172949/127824536-ae301b9a-2078-4f94-a7bc-6fa52e21e097.png)
 ![nodejs](https://user-images.githubusercontent.com/33172949/127824617-4205c2c9-acf6-4a5f-8656-e04389afc1f3.png)
