@@ -1,5 +1,5 @@
 # marcosgomez
-<img width="200" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824480-2cfa6c20-1d89-465b-9baf-5c73da9e3c8b.png">
+<img width="200" border-radius="50%" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824480-2cfa6c20-1d89-465b-9baf-5c73da9e3c8b.png">
 <img width="200" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824554-388f8537-f0a3-44b2-9d2c-00f31f059262.png">
 <img width="200" alt="postman" src="https://user-images.githubusercontent.com/33172949/127824568-3d432b84-6420-49be-b7ff-0ea4f4556917.png">
 
