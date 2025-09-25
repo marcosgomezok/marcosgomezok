@@ -1,8 +1,5 @@
-# Bienvenido: 
-Alguna vez se han preguntado los reclutadores(as) ¿porque no encuentran fácilmente a una desarrolladora de software front-end con dos años de experiencia y conocimientos en JavaScript, ReactJS, Html5, Css3, entre otros?
-Seguramente es porque aún no me han contactado
 # Contacto: 
-email:
+email: marcos_go2015@hotmail.com
 # Linkedin:
 Conecta conmigo: https://www.linkedin.com/in/marcosgomezok/
 # Habilidades:
